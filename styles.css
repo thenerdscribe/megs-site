@@ -1,0 +1,21 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+img {
+  display: block;
+  width: 100%;
+  max-width: 40rem;
+}
+
+html,
+body {
+  font-family: sans-serif;
+}
+
+body {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
