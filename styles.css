@@ -18,4 +18,16 @@ body {
   max-width: 40rem;
   margin: 0 auto;
   padding: 2rem;
+  background: deeppink;
+  color: yellow;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+}
+h2 {
+  margin-top: 0;
 }
